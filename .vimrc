@@ -1,0 +1,1 @@
+map gn :NERDTree<cr>
